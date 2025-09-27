@@ -27,14 +27,16 @@ Step 8: Copy File to Destination Folder
 Add another Assign: destPath = Path.Combine(destFolder, newFileName) (Create destPath as a String variable)
 Then use Copy File activity: From: file To: destPath
 # PROGRAM:
-<img width="670" height="612" alt="image" src="https://github.com/user-attachments/assets/778687f8-b169-4949-a9bc-027d29fe8532" />
 
-<img width="695" height="647" alt="image" src="https://github.com/user-attachments/assets/f845a15b-134a-444a-a78b-aecd20e0d644" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e529afd-abee-4cc6-8c90-ea09a2c540f1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dce817d8-287c-4f24-bb4e-416c909cd0c5" />
+
 
 # OUTPUT:
-<img width="919" height="154" alt="image" src="https://github.com/user-attachments/assets/959476d7-8be7-4066-b65e-980ae332b00f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d40cd12-fa83-4f69-91c0-13970028de04" />
 
-<img width="819" height="172" alt="image" src="https://github.com/user-attachments/assets/db421231-8224-46f7-b3ec-c1bae669b6ab" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ca7f273-16c1-4f06-8f9b-a9f314efba97" />
 
 RESULT:
 The UiPath workflow successfully reads all files from a source folder, appends a timestamp to each file name, and copies them to a new destination folder.
