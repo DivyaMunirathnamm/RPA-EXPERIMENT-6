@@ -1,4 +1,7 @@
 # RPA-EXPERIMENT-6
+# NAME : DIVYA M
+# REG NO: 212223040043
+
 # AIM:
 To create a UiPath workflow that copies all files from a source folder to a destination folder and renames them by appending a timestamp to each file name.
 
